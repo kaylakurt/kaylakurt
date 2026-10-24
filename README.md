@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! 👾
 
-<!--
-**kayla0409/kayla0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [**Kayla**](https://kaylakurt.netlify.app), a **Computer Science and Linguistics** student at UCLA.
 
-Here are some ideas to get you started:
+Currently working on [**the SoCET website**](https://github.com/kayla0409/SoCET-website), helping build a web platform for a student organization at UCLA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously worked on [**Datafy**](https://github.com/kayla0409/datafy), a full-stack Spotify listening journal built with React, TypeScript, Node.js, Express, and MongoDB, where I contributed to the dashboard and integrated Spotify's API to retrieve listening data.
+
+I enjoy building things, learning new technologies, and exploring the intersection of language and computer science. I'm particularly interested in software engineering, web development, and natural language processing.
+
+Outside of coding, I enjoy learning new languages, reading, watching old movies, and discovering new music.
+
+#### Let's connect!
+
+Feel free to check out my projects or visit [**my personal website**](https://kaylakurt.netlify.app)!
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/kayla-kurt)
