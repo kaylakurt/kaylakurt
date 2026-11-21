@@ -1,6 +1,6 @@
 ### Hi there! 👾
 
-I'm [**Kayla**](https://kaylakurt.netlify.app), a **Computer Science and Linguistics** student at UCLA.
+I'm [**Kayla**](https://kaylakurt.com/), a **Computer Science and Linguistics** student at UCLA.
 
 Currently working on [**the SoCET website**](https://github.com/kayla0409/SoCET-website), helping build a web platform for a student organization at UCLA.
 
@@ -12,6 +12,6 @@ Outside of coding, I enjoy learning new languages, reading, watching old movies,
 
 #### Let's connect!
 
-Feel free to check out my projects or visit [**my personal website**](https://kaylakurt.netlify.app)!
+Feel free to check out my projects or visit [**my personal website**](https://kaylakurt.com/)!
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/kayla-kurt)
