@@ -4,7 +4,7 @@ I'm [**Kayla**](https://kaylakurt.com/), a **Computer Science and Linguistics** 
 
 Currently working on [**the SoCET website**](https://github.com/SoCET-at-UCLA/SoCET-website), helping build a web platform for a student organization at UCLA.
 
-Previously worked on [**Datafy**](https://github.com/kayla0409/datafy), a full-stack Spotify listening journal built with React, TypeScript, Node.js, Express, and MongoDB, where I contributed to the dashboard and integrated Spotify's API to retrieve listening data.
+Previously worked on [**Datafy**](https://github.com/kaylakurt/datafy), a full-stack Spotify listening journal built with React, TypeScript, Node.js, Express, and MongoDB, where I contributed to the dashboard and integrated Spotify's API to retrieve listening data.
 
 I enjoy building things, learning new technologies, and exploring the intersection of language and computer science. I'm particularly interested in software engineering, web development, and natural language processing.
 
