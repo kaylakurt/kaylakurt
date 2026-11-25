@@ -14,4 +14,4 @@ Outside of coding, I enjoy learning new languages, reading, watching old movies,
 
 Feel free to check out my projects or visit [**my personal website**](https://kaylakurt.com/)!
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/kayla-kurt)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/kaylakurt)
